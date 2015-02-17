@@ -1,0 +1,11 @@
+{
+    "name": "college-football-rankings-node",
+    "version": "0.1.0",
+    "description": "An alternate way of ranking college football teams",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "csvtojson": "~0.3.14",
+        "lodash": "~2.4.1",
+        "moment": "~2.8.3"
+    }
+}
